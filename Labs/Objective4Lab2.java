@@ -20,7 +20,7 @@ keyboard.nextInt();
     System.out.println("Please enter the third whole number you would like to add");
     keyboard.nextInt();
 
-    System.out.println("Please enter the first demimal number you would like to add");
+    System.out.println("Please enter the first decimal number you would like to add");
     keyboard.nextDouble();
 
     System.out.println("Please enter the second decimal number you would like to add");
