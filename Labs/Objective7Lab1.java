@@ -9,8 +9,8 @@ System.out.println(counter);
 
 
 
-      counter = counter - 1;
-      
+      counter--;
+
     }
   }
 }
